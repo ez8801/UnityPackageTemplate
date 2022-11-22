@@ -5,7 +5,7 @@ This is a template for unity custom package.
 
 ### Install via git URL
 
-To install this package, you need to edit your Unity project's `Packages/manifest.json` and add this repository as a dependency. You can alos specify the commit hash or tag like this:
+To install this package, you need to edit your Unity project's `Packages/manifest.json` and add this repository as a dependency. 
 ``` json
 {
   "dependencies": {
