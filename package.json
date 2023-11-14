@@ -1,14 +1,16 @@
 {
-  "name": "packageName",
-  "version": "packageVersion",
+  "name": "com.[company-name].[package-name]",
+  "version": "1.2.3",
   "displayName": "Display Name",
-  "description": "Description",
+  "description": "This is an example package",
   "unity": "2021.3",
   "unityRelease": "10f1",
-  "documentationUrl": "",
-  "changelogUrl": "",
-  "licensesUrl": "",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
   "dependencies": {
+    "com.[company-name].some-package": "1.0.0",
+    "com.[company-name].other-package": "2.0.0"
   },
   "keywords": [
     "keyword1",
